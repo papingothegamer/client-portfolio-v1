@@ -1,0 +1,21 @@
+/* Import custom fonts */
+@font-face {
+    font-family: 'Jalliya';
+    src: url('/fonts/Jalliya-VGwxy.ttf') format('truetype'),
+         url('/fonts/Nohemi-Black.otf') format('opentype'),
+         url('/fonts/Nohemi-Bold.otf') format('opentype'),
+         url('/fonts/Nohemi-ExtraBold.otf') format('opentype'),
+         url('/fonts/Nohemi-ExtraLight.otf') format('opentype'),
+         url('/fonts/Nohemi-Light.otf') format('opentype'),
+         url('/fonts/Nohemi-Medium.otf') format('opentype'),
+         url('/fonts/Nohemi-Regular.otf') format('opentype'),
+         url('/fonts/Nohemi-SemiBold.otf') format('opentype'),
+         url('/fonts/Nohemi-Thin.otf') format('opentype');
+}
+
+/* Apply custom font to the body */
+body {
+  font-family: 'Nohemi', sans-serif;
+  background-color: #fffbed; /* Set background color here */
+}
+

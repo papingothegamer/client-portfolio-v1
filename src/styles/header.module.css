@@ -1,0 +1,36 @@
+.header {
+    width: 540px;
+    height: 760px;
+    background-color: #b9b9b9;
+    margin: 50px 0 50px 50px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .headerText {
+    font-family: 'Nohemi', sans-serif;
+    text-align: center;
+  }
+  
+  .bodyText {
+    font-family: 'Jalliya', sans-serif;
+    text-align: center;
+    font-size: 150px;
+    font-weight: 100;
+  }
+  
+  .links {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px; 
+  }
+  
+  .links a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  .links a:hover {
+    text-decoration: underline;
+  }

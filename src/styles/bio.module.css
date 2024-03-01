@@ -1,0 +1,15 @@
+.bio {
+    width: 834px;
+    height: 243px;
+    background-color: none; 
+    margin-top: -845px; 
+    margin-left: 638px; 
+    padding: 20px;
+  }
+  
+  .bioText {
+    font-family: 'Nohemi', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: black;
+  }

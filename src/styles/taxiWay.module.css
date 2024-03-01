@@ -1,0 +1,41 @@
+.taxiWay {
+    width: 320px;
+    height: 170px;
+    background-color: #5FFC6F;
+    position: relative;
+    margin-top: 19px;
+    margin-left: 655px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  .externalLinkIcon {
+    width: 20px; 
+    height: 23px; 
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer; 
+    transition: filter 0.3s ease; 
+  }
+  
+  .externalLinkIcon:hover {
+    filter: brightness(0.8);
+  }
+  
+  .headerText {
+    font-family: 'Nohemi', sans-serif;
+    font-size: 14px; 
+    text-align: left; 
+    margin-top: 120px;
+  }
+  
+  .bodyText {
+    font-family: 'Nohemi', sans-serif;
+    font-size: 12px;
+    line-height: 1.5;
+    text-align: left; 
+    margin-top: -15px;
+  }
