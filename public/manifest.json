@@ -1,0 +1,19 @@
+{
+    "name": "Mariam Designs' Portfolio",
+    "short_name": "Portfolio",
+    "icons": [
+      {
+        "src": "img/logo.png",
+        "sizes": "64x64",
+        "type": "image/png"
+      },
+      {
+        "src": "img/logo-small.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+  }
