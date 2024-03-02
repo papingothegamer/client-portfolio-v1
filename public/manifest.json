@@ -3,12 +3,12 @@
     "short_name": "Portfolio",
     "icons": [
       {
-        "src": "img/webicon2.ico.png",
+        "src": "img/webicon2.ico.ico",
         "sizes": "64x64",
         "type": "image/png"
       },
       {
-        "src": "img/webicon2.ico.png",
+        "src": "img/webicon2.ico.ico",
         "sizes": "32x32",
         "type": "image/png"
       }
