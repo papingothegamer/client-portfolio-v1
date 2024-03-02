@@ -13,3 +13,29 @@
     line-height: 1.5;
     color: black;
   }
+
+.resumeLink {
+  display: flex;
+  align-items: auto;
+  margin-top: 20px;
+
+}
+
+.resumeLink a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+  font-size: 16px;
+  transition: text-decoration 0.3s ease; 
+}
+
+.resumeLink a:hover {
+  text-decoration: underline; 
+}
+
+.resumeIcon {
+  width: 24px;
+  height: 24px;
+  margin-right: 5px;
+}
