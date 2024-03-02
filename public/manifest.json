@@ -3,14 +3,14 @@
     "short_name": "Portfolio",
     "icons": [
       {
-        "src": "img/webicon2.ico",
+        "src": "img/webicon2.ico.png",
         "sizes": "64x64",
-        "type": "image/ico"
+        "type": "image/png"
       },
       {
-        "src": "img/webicon2.ico",
+        "src": "img/webicon2.ico.png",
         "sizes": "32x32",
-        "type": "image/ico"
+        "type": "image/png"
       }
     ],
     "theme_color": "#ffffff",
