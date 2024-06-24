@@ -34,3 +34,25 @@
   .links a:hover {
     text-decoration: underline;
   }
+
+  @media (max-width: 768px) {
+    .header {
+      width: 100%;
+      height: auto;
+      margin: 0 auto;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+  
+    .links {
+      display: flex;
+      justify-content: space-between;
+      padding: 10px 20px; 
+    }
+  
+    .links a {
+      margin-bottom: 10px; /* Add space between links */
+    }
+  }

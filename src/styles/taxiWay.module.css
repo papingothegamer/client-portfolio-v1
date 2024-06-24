@@ -39,3 +39,14 @@
     text-align: left; 
     margin-top: -15px;
   }
+
+  @media (max-width: 768px) {
+    .taxiWay {
+      width: 100%;
+      height: auto;
+      margin-top: 20px;
+      margin-left: 0;
+      padding: 20px;
+      text-align: center;
+    }
+  }

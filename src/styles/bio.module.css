@@ -39,3 +39,17 @@
   height: 24px;
   margin-right: 5px;
 }
+
+@media (max-width: 768px) {
+  .bio {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .resumeLink {
+    justify-content: center;
+  }
+}

@@ -9,6 +9,7 @@ import RandomProjectOne from '../components/RPOne';
 import RandomProjectTwo from '../components/RPTwo';
 
 
+
 const IndexPage: React.FC = () => {
   
   return (
