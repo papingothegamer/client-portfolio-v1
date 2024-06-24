@@ -44,9 +44,8 @@
     .randomprojecttwo {
       width: 100%;
       height: auto;
-      margin-top: 20px;
-      margin-left: 0;
-      padding: 20px;
+      margin: 20px auto;
+      padding: 10px;
       text-align: center;
     }
   }

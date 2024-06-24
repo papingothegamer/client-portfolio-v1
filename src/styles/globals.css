@@ -19,3 +19,34 @@ body {
   background-color: #fffbed; /* Set background color here */
 }
 
+
+
+/* Responsive styles for mobile view */
+@media (max-width: 768px) {
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  
+  }
+  .header {
+    margin-bottom: 20px;
+  }
+
+  .bio {
+    margin: 0 0 20px 0;
+  }
+
+  .resumeLink {
+    margin: 0 auto 20px auto;
+  }
+
+  .projects {
+    display: block;
+  }
+
+  .project {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
